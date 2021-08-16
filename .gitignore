@@ -21,8 +21,8 @@ phy/
 exe/
 
 # Eclipse project
-.cproject
-.project
+#.cproject
+#.project
 .codelite
 .settings
 
