@@ -11,7 +11,7 @@
 #include <stdio.h>
 #include <iomanip>
 using namespace std;
-#define TIMEOUT_CNT					10
+#define TIMEOUT_CNT					1800
 
 
 
