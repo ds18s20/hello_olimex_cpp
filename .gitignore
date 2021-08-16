@@ -24,7 +24,7 @@ exe/
 #.cproject
 #.project
 .codelite
-.settings
+#.settings
 
 # Backups
 *.bkp
